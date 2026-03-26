@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rinaltrans.vercel.app/sitemap.xml
