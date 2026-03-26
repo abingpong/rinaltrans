@@ -12,8 +12,12 @@
   </url>
 
   <url>
-    <loc>https://rinaltrans.vercel.app/rental-mobil-juanda</loc>
+    <loc>https://rinaltrans.vercel.app/rental-mobil-sidoarjo</loc>
     <priority>0.8</priority>
   </url>
 
+  <url>
+    <loc>https://rinaltrans.vercel.app/rental-mobil-juanda</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
